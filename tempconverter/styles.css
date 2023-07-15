@@ -1,0 +1,38 @@
+.temperature-converter {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 2px solid #ccc;
+    }
+    body{
+        background-color: rgb(127, 90, 215);
+        padding:center ;
+    }
+    
+    h1 {
+    text-align: center;
+    }
+    
+    input {
+    width: 100px;
+    border: 2px solid #650505;
+    padding: 10px;
+    }
+    
+    label {
+    font-size: 20px;
+    }
+    
+    span {
+    font-size: 20px;
+    }
+    
+    button {
+    background-color: rgb(6, 65, 6);
+    color: rgb(218, 146, 115);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    }
+    
